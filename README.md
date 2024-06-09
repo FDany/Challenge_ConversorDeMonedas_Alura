@@ -12,9 +12,9 @@ Convierte una moneda (dato double), proporsionado por el usuario, a una moneda e
 - `Funcionalidad 3`: Manejo del Json, devolviendo un dato double.
 
 <h3 align="center"> Prueba </h3>
-![](https://github.com/FDany/Challenge_ConversorDeMonedas_Alura/assets/107195794/b3014e7e-d452-4542-b208-914144a22195)
+![Ejemplo](https://github.com/FDany/Challenge_ConversorDeMonedas_Alura/assets/107195794/b3014e7e-d452-4542-b208-914144a22195)
 
-![](https://imgur.com/a/h5LYHJh)
+
 
 ## Construido con 🛠️
 
