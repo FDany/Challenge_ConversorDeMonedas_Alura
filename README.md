@@ -10,4 +10,4 @@
 - `Funcionalidad 2`: Resive un dato Json de la API.
 - `Funcionalidad 3`: Manejo del Json, devolviendo un dato double.
 
-![Ejemplo](https://www.img2go.com/es/result#j=c3dbe73e-39bb-49e9-b70e-7d447fd3c4e8)
+![Ejemplo](https://github.com/FDany/Challenge_ConversorDeMonedas_Alura/assets/107195794/b3014e7e-d452-4542-b208-914144a22195)
