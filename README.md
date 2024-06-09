@@ -6,7 +6,8 @@
 </p>
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1
-- `Funcionalidad 2`: descripción de la funcionalidad 2
-- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
-- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Funcionalidad 1`: Consumo de una API.
+- `Funcionalidad 2`: Resive un dato Json de la API.
+- `Funcionalidad 3`: Manejo del Json, devolviendo un dato double.
+
+![Ejemplo](https://www.img2go.com/es/result#j=c3dbe73e-39bb-49e9-b70e-7d447fd3c4e8)
